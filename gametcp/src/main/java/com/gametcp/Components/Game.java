@@ -47,7 +47,11 @@ public class Game implements Runnable {
                 writer.println("\t c. " + preguntaSeleccionada.getRespuestas().get(2).getCiudad() );
                 writer.println("\t d. " + preguntaSeleccionada.getRespuestas().get(3).getCiudad() + "\n");
                 writer.println("\t Escribe el literal correspondiente: ");
-                idPlayer = Integer.parseInt(entradaReader.readLine());
+                
+                try{
+                    idPlayer = Integer.parseInt(entradaReader.readLine());
+                }catch(NumberFormatException nue){nue.printStackTrace();}
+
                 String literal = entradaReader.readLine();
                 int puntos;
                 UpdateScore updateScore = new UpdateScore();
