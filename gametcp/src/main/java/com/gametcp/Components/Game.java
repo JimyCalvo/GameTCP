@@ -106,6 +106,7 @@ public class Game implements Runnable {
             writer.println("                                                      ▓                                     ▓   ▓               "); 
             writer.println("                                                      ▓                                      ▓▓▓                "); 
             Thread.sleep(1500);
+            System.out.println("Jugador a Finalizado.....");
             writer.close();
             entradaReader.close();
             clientSocket.close();

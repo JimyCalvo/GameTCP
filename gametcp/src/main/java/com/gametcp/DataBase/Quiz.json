@@ -5,7 +5,7 @@
         "respuestas": [
             {
                 "ciudad": "Pekín",
-                "puntaje": 700
+                "puntaje": 600
             },
             {
                 "ciudad": "Sídney",
@@ -17,7 +17,7 @@
             },
             {
                 "ciudad": "Ciudad de México",
-                "puntaje": 0
+                "puntaje": 300
             }
         ]
     },
