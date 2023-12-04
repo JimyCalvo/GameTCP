@@ -1,0 +1,442 @@
+[
+    {
+        "id": 1,
+        "pregunta": "Tokio",
+        "respuestas": [
+            {
+                "ciudad": "Pekín",
+                "puntaje": 700
+            },
+            {
+                "ciudad": "Sídney",
+                "puntaje": 0
+            },
+            {
+                "ciudad": "Seúl",
+                "puntaje": 1000
+            },
+            {
+                "ciudad": "Ciudad de México",
+                "puntaje": 0
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "pregunta": "Nueva York",
+        "respuestas": [
+            {
+                "ciudad": "Londres",
+                "puntaje": 300
+            },
+            {
+                "ciudad": "Los Ángeles",
+                "puntaje": 600
+            },
+            {
+                "ciudad": "Miami",
+                "puntaje": 1000
+            },
+            {
+                "ciudad": "Toronto",
+                "puntaje": 1000
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "pregunta": "París",
+        "respuestas": [
+            {
+                "ciudad": "Ámsterdam",
+                "puntaje": 1000
+            },
+            {
+                "ciudad": "Berlín",
+                "puntaje": 600
+            },
+            {
+                "ciudad": "Milán",
+                "puntaje": 900
+            },
+            {
+                "ciudad": "Madrid",
+                "puntaje": 700
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "pregunta": "Buenos Aires",
+        "respuestas": [
+            {
+                "ciudad": "Santiago",
+                "puntaje": 800
+            },
+            {
+                "ciudad": "Río de Janeiro",
+                "puntaje": 600
+            },
+            {
+                "ciudad": "Lima",
+                "puntaje": 300
+            },
+            {
+                "ciudad": "Bogotá",
+                "puntaje": 0
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "pregunta": "Moscú",
+        "respuestas": [
+            {
+                "ciudad": "Estambul",
+                "puntaje": 800
+            },
+            {
+                "ciudad": "Helsinki",
+                "puntaje": 1000
+            },
+            {
+                "ciudad": "Pekín",
+                "puntaje": 0
+            },
+            {
+                "ciudad": "Teherán",
+                "puntaje": 600
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "pregunta": "Ciudad del Cabo",
+        "respuestas": [
+            {
+                "ciudad": "Nairobi",
+                "puntaje": 600
+            },
+            {
+                "ciudad": "Madrid",
+                "puntaje": 0
+            },
+            {
+                "ciudad": "Río de Janeiro",
+                "puntaje": 300
+            },
+            {
+                "ciudad": "Perth",
+                "puntaje": 200
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "pregunta": "Sydney",
+        "respuestas": [
+            {
+                "ciudad": "Auckland",
+                "puntaje": 600
+            },
+            {
+                "ciudad": "Manila",
+                "puntaje": 300
+            },
+            {
+                "ciudad": "Johannesburgo",
+                "puntaje": 0
+            },
+            {
+                "ciudad": "Los Ángeles",
+                "puntaje": 0
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "pregunta": "Vancouver",
+        "respuestas": [
+            {
+                "ciudad": "Seattle",
+                "puntaje": 1000
+            },
+            {
+                "ciudad": "San Francisco",
+                "puntaje": 800
+            },
+            {
+                "ciudad": "Toronto",
+                "puntaje": 300
+            },
+            {
+                "ciudad": "Calgary",
+                "puntaje": 900
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "pregunta": "Estambul",
+        "respuestas": [
+            {
+                "ciudad": "Atenas",
+                "puntaje": 1000
+            },
+            {
+                "ciudad": "Bagdad",
+                "puntaje": 700
+            },
+            {
+                "ciudad": "Bucarest",
+                "puntaje": 1000
+            },
+            {
+                "ciudad": "Belgrado",
+                "puntaje": 900
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "pregunta": "Mumbai",
+        "respuestas": [
+            {
+                "ciudad": "Delhi",
+                "puntaje": 800
+            },
+            {
+                "ciudad": "Bangkok",
+                "puntaje": 700
+            },
+            {
+                "ciudad": "Dubai",
+                "puntaje": 600
+            },
+            {
+                "ciudad": "Karachi",
+                "puntaje": 900
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "pregunta": "Bogotá",
+        "respuestas": [
+            {
+                "ciudad": "Quito",
+                "puntaje": 1000
+            },
+            {
+                "ciudad": "Lima",
+                "puntaje": 700
+            },
+            {
+                "ciudad": "Caracas",
+                "puntaje": 700
+            },
+            {
+                "ciudad": "San José",
+                "puntaje": 200
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "pregunta": "Seúl",
+        "respuestas": [
+            {
+                "ciudad": "Tokio",
+                "puntaje": 1000
+            },
+            {
+                "ciudad": "Pekín",
+                "puntaje": 1000
+            },
+            {
+                "ciudad": "Manila",
+                "puntaje": 500
+            },
+            {
+                "ciudad": "Hanoi",
+                "puntaje": 200
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "pregunta": "Ciudad de México",
+        "respuestas": [
+            {
+                "ciudad": "Los Ángeles",
+                "puntaje": 600
+            },
+            {
+                "ciudad": "Miami",
+                "puntaje": 300
+            },
+            {
+                "ciudad": "Guatemala",
+                "puntaje": 1000
+            },
+            {
+                "ciudad": "Bogotá",
+                "puntaje": 500
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "pregunta": "Roma",
+        "respuestas": [
+            {
+                "ciudad": "Madrid",
+                "puntaje": 800
+            },
+            {
+                "ciudad": "Atenas",
+                "puntaje": 1000
+            },
+            {
+                "ciudad": "Viena",
+                "puntaje": 700
+            },
+            {
+                "ciudad": "Zúrich",
+                "puntaje": 900
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "pregunta": "Johannesburgo",
+        "respuestas": [
+            {
+                "ciudad": "Nairobi",
+                "puntaje": 800
+            },
+            {
+                "ciudad": "Ciudad del Cabo",
+                "puntaje": 900
+            },
+            {
+                "ciudad": "Luanda",
+                "puntaje": 600
+            },
+            {
+                "ciudad": "Harare",
+                "puntaje": 900
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "pregunta": "Toronto",
+        "respuestas": [
+            {
+                "ciudad": "Nueva York",
+                "puntaje": 1000
+            },
+            {
+                "ciudad": "Montreal",
+                "puntaje": 1000
+            },
+            {
+                "ciudad": "Chicago",
+                "puntaje": 900
+            },
+            {
+                "ciudad": "Detroit",
+                "puntaje": 1000
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "pregunta": "Lima",
+        "respuestas": [
+            {
+                "ciudad": "Quito",
+                "puntaje": 700
+            },
+            {
+                "ciudad": "Bogotá",
+                "puntaje": 500
+            },
+            {
+                "ciudad": "La Paz",
+                "puntaje": 600
+            },
+            {
+                "ciudad": "Santiago",
+                "puntaje": 300
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "pregunta": "Bangkok",
+        "respuestas": [
+            {
+                "ciudad": "Kuala Lumpur",
+                "puntaje": 1000
+            },
+            {
+                "ciudad": "Ho Chi Minh",
+                "puntaje": 900
+            },
+            {
+                "ciudad": "Singapur",
+                "puntaje": 1000
+            },
+            {
+                "ciudad": "Manila",
+                "puntaje": 800
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "pregunta": "Santiago",
+        "respuestas": [
+            {
+                "ciudad": "Buenos Aires",
+                "puntaje": 600
+            },
+            {
+                "ciudad": "Montevideo",
+                "puntaje": 1000
+            },
+            {
+                "ciudad": "La Paz",
+                "puntaje": 800
+            },
+            {
+                "ciudad": "Asunción",
+                "puntaje": 1000
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "pregunta": "Ámsterdam",
+        "respuestas": [
+            {
+                "ciudad": "Bruselas",
+                "puntaje": 1000
+            },
+            {
+                "ciudad": "Colonia",
+                "puntaje": 900
+            },
+            {
+                "ciudad": "Hamburgo",
+                "puntaje": 800
+            },
+            {
+                "ciudad": "Londres",
+                "puntaje": 900
+            }
+        ]
+    }
+]
