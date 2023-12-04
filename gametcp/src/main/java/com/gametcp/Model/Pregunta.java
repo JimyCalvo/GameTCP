@@ -37,6 +37,25 @@ public class Pregunta {
     public void setRespuestas(List<Respuesta> respuestas) {
         this.respuestas = respuestas;
     }
+    public static String obtenerCiudadConMayorPuntaje(Pregunta pregunta) {
+        if (pregunta == null || pregunta.getRespuestas() == null || pregunta.getRespuestas().isEmpty()) {
+            return null; 
+        }
+
+        int maxPuntaje = Integer.MIN_VALUE;
+        String ciudadMaxPuntaje = null;
+
+        for (Respuesta respuesta : pregunta.getRespuestas()) {
+            if (respuesta.getPuntaje() > maxPuntaje) {
+                maxPuntaje = respuesta.getPuntaje();
+                ciudadMaxPuntaje = respuesta.getCiudad();
+            }
+        }
+
+        return ciudadMaxPuntaje;
+    }
+
+    
 
     @Override
     public String toString() {

@@ -88,12 +88,14 @@ public class Game implements Runnable {
                         break;
                 }
 
+
+                writer.println("\n\t La respuesta correcta es: "+Pregunta.obtenerCiudadConMayorPuntaje(preguntaSeleccionada));
                 contador++;
                 writer.println("\n\t\t\t ╔════════════════════════════════╗");
                 writer.println("\t\t\t           Puntos:  " + puntaje);
                 writer.println("\t\t\t ╚════════════════════════════════╝\n");
 
-            } while (contador != 21);
+            } while (contador != 11);
             writer.println("\n\n");
 
             writer.println("     ▓▓▓                          ▓                                              ▓▓▓                            "); 
